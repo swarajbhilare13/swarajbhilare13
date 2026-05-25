@@ -1,7 +1,7 @@
  Hi, I'm Swaraj Bhilare 
 
-🎓 Computer Science & Engineering Student
-💻 Interested in Cloud Computing, Artificial Intelligence, and Software Development
+ Computer Science & Engineering Student
+ Interested in Cloud Computing, Artificial Intelligence, and Software Development
 
  Tech Stack
 
