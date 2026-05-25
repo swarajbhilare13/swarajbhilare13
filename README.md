@@ -11,17 +11,11 @@
 * Linux
 * Git
 
- Currently Exploring
+ Intrests 
 
 * Cloud Computing
 * AI & Machine Learning
 * Modern Software Development
-
- Goals
-
-* Build scalable and impactful software solutions
-* Continuously improve problem-solving and development skills
-* Contribute to real-world projects and open-source communities
 
  Connect With Me
 
