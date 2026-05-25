@@ -1,16 +1,30 @@
-## Hi there 👋
+ Hi, I'm Swaraj Bhilare 
 
-<!--
-**swarajbhilare13/swarajbhilare13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Student
+💻 Interested in Cloud Computing, Artificial Intelligence, and Software Development
 
-Here are some ideas to get you started:
+ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* C
+* React
+* Linux
+* Git
+
+ Currently Exploring
+
+* Cloud Computing
+* AI & Machine Learning
+* Modern Software Development
+
+ Goals
+
+* Build scalable and impactful software solutions
+* Continuously improve problem-solving and development skills
+* Contribute to real-world projects and open-source communities
+
+ Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/swaraj-bhilare-988346357/
+
+ Always learning, building, and exploring new technologies.
