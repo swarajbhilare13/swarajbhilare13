@@ -7,7 +7,7 @@
 
 * Programming languages- Python, C , SQL
 * Tools and technologies- Linux, git, github, VS code
-* Cloud & DevOps Technologies- Docker
+* Cloud Technologies- Docker
 
  Intrests 
 
